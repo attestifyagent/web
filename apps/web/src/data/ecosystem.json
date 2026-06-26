@@ -1,18 +1,1 @@
-[
-  {
-    "name": "growthepie",
-    "description": "The open analytics platform for the Ethereum ecosystem. We empower Base Chain builders with open and actionable metrics on usage, growth, and adoption.",
-    "url": "https://www.growthepie.com/chains/base",
-    "imageUrl": "/images/partners/growthepie.webp",
-    "category": "infra",
-    "subcategory": "data"
-  },
-  {
-    "name": "Attestify OS",
-    "description": "Financial control plane for AI agents \u2014 x402 payments, cryptographic receipts, governance, routing, and reputation on Base.",
-    "url": "https://attestifyos.com",
-    "imageUrl": "/images/partners/attestify-os.png",
-    "category": "infra",
-    "subcategory": "payments"
-  }
-]
+placeholder_will_be_set_by_code
